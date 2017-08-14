@@ -1,0 +1,1 @@
+# Godox-G1-firmware-research
